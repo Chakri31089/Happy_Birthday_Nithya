@@ -88,9 +88,9 @@ export default function BirthdayCelebration() {
             >
               <div className="text-center">
                 <p className="text-purple-700 mb-2">
-                Just wanted to remind you—you're my favorite person. My days are better, smiles are wider, and life is sweeter because of you.
+                You're a very special girl 🥰💝 and someone who's always on my mind 😌, but know that I’m thinking of you just that little bit more so today😁! I hope you have the truly fabulous day 🥰😌 that you deserve!🥰💫.
                 </p>
-                <p className="text-pink-600 font-medium">I hope your birthday is full of love, magic, and everything that makes you smile 💖</p>
+                <p className="text-pink-600 font-medium"> I feel so lucky to have you as my Spl Fav Person 💓. Hope your birthday is as special as you are 🤗.I am looking forward to many more years of our bond and birthdays with you💖. I am grateful that you are a part of my life🩷. In good times and bad, I’ll always be by your side 🩷✨</p>
                 <div className="flex justify-center">
                   <motion.div
                     animate={{
