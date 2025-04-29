@@ -87,7 +87,7 @@ export default function BirthdayCelebration() {
               transition={{ duration: 0.5 }}
             >
               <div className="text-Justify-center">
-                <p className="text-purple-500 mb-2">
+                <p className="text-purple-700 mb-1">
                 You're a very special girl 🥰💝 and someone who's always on my mind 😌, but know that I’m thinking of you just that little bit more so today😁! I hope you have the truly fabulous day 🥰😌 that you deserve!🥰💫.</p>
                 <p className="text-pink-600 font-medium"> I feel so lucky to have you as my Spl Fav Person 💓. Hope your birthday is as special as you are 🤗.I am looking forward to many more years of our bond and birthdays with you💖. I am grateful that you are a part of my life🩷. In good times and bad, I’ll always be by your side 🩷✨</p>
                 <div className="flex justify-center">
