@@ -88,7 +88,7 @@ export default function BirthdayCelebration() {
             >
 
               <div className="flex flex-col items-center justify-center">
-                <p className="text-purple-700 mb-0 text-center w-[30vw] leading-snug">You're a very special girl 🥰💝 and someone who's always on my mind 😌, but know that I’m thinking of you just that little bit more so today😁! I hope you have the truly fabulous day 🥰😌 that you deserve!🥰💫.I feel so lucky to have you as my Spl Fav Person 💓.Hope your birthday is as special as you are 🤗.I am looking forward to many more years of our bond and birthdays with you💖. I am grateful that you are a part of my life🩷. In good times and bad, I’ll always be by your side 🩷✨</p>
+                <p className="text-purple-700 mb-4 leading-tight h-[100px] w-[300px] overflow-hidden text-center">You're a very special girl 🥰💝 and someone who's always on my mind 😌, but know that I’m thinking of you just that little bit more so today😁! I hope you have the truly fabulous day 🥰😌 that you deserve!🥰💫.I feel so lucky to have you as my Spl Fav Person 💓.Hope your birthday is as special as you are 🤗.I am looking forward to many more years of our bond and birthdays with you💖. I am grateful that you are a part of my life🩷. In good times and bad, I’ll always be by your side 🩷✨</p>
                 <div className="flex justify-center">
                   <motion.div
                     animate={{
