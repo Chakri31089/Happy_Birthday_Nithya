@@ -87,8 +87,8 @@ export default function BirthdayCelebration() {
               transition={{ duration: 0.5 }}
             >
 
-              <div className="text-Justify-center w-full max-w-2xl mx-auto">
-                <p className="text-purple-700 mb-4">You're a very special girl 🥰💝 and someone who's always on my mind 😌, but know that I’m thinking of you just that little bit more so today😁! I hope you have the truly fabulous day 🥰😌 that you deserve!🥰💫.I feel so lucky to have you as my Spl Fav Person 💓.Hope your birthday is as special as you are 🤗.I am looking forward to many more years of our bond and birthdays with you💖. I am grateful that you are a part of my life🩷. In good times and bad, I’ll always be by your side 🩷✨</p>
+              <div className="text-justify-center w-full max-w-3xl mx-auto">
+                <p className="text-purple-700 mb-4 text-lg leading-relaxed">You're a very special girl 🥰💝 and someone who's always on my mind 😌, but know that I’m thinking of you just that little bit more so today😁! I hope you have the truly fabulous day 🥰😌 that you deserve!🥰💫.I feel so lucky to have you as my Spl Fav Person 💓.Hope your birthday is as special as you are 🤗.I am looking forward to many more years of our bond and birthdays with you💖. I am grateful that you are a part of my life🩷. In good times and bad, I’ll always be by your side 🩷✨</p>
                 <div className="flex justify-center">
                   <motion.div
                     animate={{
