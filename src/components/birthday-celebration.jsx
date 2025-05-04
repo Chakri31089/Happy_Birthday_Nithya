@@ -115,14 +115,9 @@ export default function BirthdayCelebration() {
         transition={{ delay: 1 }}
       >
         <div className="text-center">
-          <p className="text-lg text-purple-700 mb-4">
+          <p className="text-lg text-purple-700 mb-4, width: 50vw; margin-left: auto; margin-right: auto;">
           May every wish you make today come true. You deserve the world, and remember, no matter what, I will always be there for you in any situation Okay na.🩷🤗✨
           </p>
-          p.text-purple-700.mb-0.ai-style-change-2 {
-  width: 50vw;
-  margin-left: auto;
-  margin-right: auto;
-}
           <div className="flex justify-center items-center gap-2">
             <p className="text-pink-600 font-medium">Let’s always stay our bond like this... Stronger, together, forever 🩷🫶</p>
           </div>
