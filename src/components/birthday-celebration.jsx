@@ -99,7 +99,7 @@ export default function BirthdayCelebration() {
                       repeat: Number.POSITIVE_INFINITY,
                     }}
                   >
-                    <Heart className="w-8 h-8 stroke-none fill-rose-500" />
+                    <Heart className="w-10 h-10 stroke-none fill-rose-500" />
                   </motion.div>
                 </div>
               </div>
@@ -115,7 +115,7 @@ export default function BirthdayCelebration() {
         transition={{ delay: 1 }}
       >
         <div className="text-center">
-          <p className="text-lg text-purple-700 mb-4, width: 50vw; margin-left: auto; margin-right: auto;">
+          <p className="text-lg text-purple-700 mb-4">
           May every wish you make today come true. You deserve the world, and remember, no matter what, I will always be there for you in any situation Okay na.🩷🤗✨
           </p>
           <div className="flex justify-center items-center gap-2">
