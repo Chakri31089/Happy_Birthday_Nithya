@@ -116,7 +116,7 @@ export default function BirthdayCelebration() {
       >
         <div className="text-center">
           <p className="text-lg text-purple-700 mb-4">
-          May every wish you make today come true. You deserve the world, and remember, no matter what, I will always be there for you in any situation Okay na.🩷🤗✨
+          May every wish you make today come true. You deserve the world, and remember, no matter what, I will always be there for you in any situation Okay na maa.🩷🤗✨
           </p>
           <div className="flex justify-center items-center gap-2">
             <p className="text-pink-600 font-medium">Let’s always stay our bond like this... Stronger, together, forever 🩷🫶</p>
