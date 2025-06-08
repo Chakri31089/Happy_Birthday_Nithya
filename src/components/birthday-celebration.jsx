@@ -100,7 +100,7 @@ export default function BirthdayCelebration() {
                       repeat: Number.POSITIVE_INFINITY,
                     }}
                   >
-                    <Heart className="w-10 h-10 stroke-none fill-rose-500" />
+{/*                     <Heart className="w-10 h-10 stroke-none fill-rose-500" /> */}
                   </motion.div>
                 </div>
               </div>
