@@ -14,7 +14,7 @@ export default function Home() {
   const [isLoading, setIsLoading] = useState(true)
   const [bubbles, setBubbles] = useState([])
   const [showForYouBtn, setShowForYouBtn] = useState(false)
-  const birthdayDate = new Date("June 14, 2025") // Change this date accordingly
+  const birthdayDate = new Date("june 10, 2025") // Change this date accordingly
   const audioRef = useRef(null)
 
   // For testing
@@ -26,16 +26,19 @@ export default function Home() {
     }, 1500);
   }, [])
 
-  const startCelebration = () => {
-    setShowForYouBtn(false)
-    setIsBirthday(true)
-    // Play the song
-    if (audioRef.current) {
+  // Play background music when loading is complete
+  useEffect(() => {
+    if (!isLoading && audioRef.current) {
       audioRef.current.volume = 0.8;
       audioRef.current.play().catch((e) => {
         console.log("Autoplay prevented, user interaction needed", e)
       })
     }
+  }, [isLoading])
+
+  const startCelebration = () => {
+    setShowForYouBtn(false)
+    setIsBirthday(true)
   }
 
   useEffect(() => {
@@ -101,7 +104,7 @@ export default function Home() {
           }}
         >
           <PartyPopper className="w-6 h-6" />
-          <span className="text-xl">For you Ammai🩷💫</span>
+          <span className="text-xl">For you</span>
           <MoveRight className="w-5 stroke-3 h-6" />
         </motion.button>
       </motion.div>}
