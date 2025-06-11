@@ -21,7 +21,7 @@ export default function BirthdayCelebration() {
         }}
         className="relative"
       >
-        <h2 className="text-4xl sm:text-5xl font-bold text-center text-pink-600">Advance Happy Birthday Madem Ji!</h2>
+        <h2 className="text-4xl sm:text-5xl font-bold text-center text-pink-600 mb-4">Advance Happy Birthday Madem Ji!</h2>
         <div className="flex justify-center gap-5">
 {/*           <Cake className="w-8 h-8 text-pink-500" />
           <Sparkles className="w-8 h-8 text-yellow-500" />
