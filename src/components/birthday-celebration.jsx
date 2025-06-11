@@ -21,7 +21,7 @@ export default function BirthdayCelebration() {
         }}
         className="relative mb-2"
       >
-        <h1 className="text-4xl sm:text-5xl font-bold text-center text-pink-600 mb-2">Happy Birthday Ammai 🩷!</h1>
+        <h1 className="text-4xl sm:text-5xl font-bold text-center text-pink-600 mb-2">Advance Happy Birthday Ammai 🩷!</h1>
         <div className="flex justify-center gap-3">
           <Cake className="w-8 h-8 text-pink-500" />
           <Sparkles className="w-8 h-8 text-yellow-500" />
@@ -89,7 +89,7 @@ export default function BirthdayCelebration() {
             >
 
               <div className="flex flex-col items-center justify-center">
-                <p className="text-purple-600 mb-1 leading-tight h-[auto] w-[700px] overflow-hidden text-center">Happy Birthday to my most special and favorite person!💖🎉 On this beautiful day 🌞, I just want to remind you how incredibly important you are to me and how much joy 😄💫 you bring into my life every single day. 🌟 Your smile 😊 is my sunshine ☀️, your voice 🎶 is my comfort 🤗, and your presence is my peace 🕊️. You’ve touched my heart ❤️ in ways words can never fully express 📝, and I’m beyond grateful 🙏 to have someone as amazing, caring, and wonderful as you in my life 💕. Every moment with you is a memory I cherish 💭📸, and today, I hope the universe 🌌 showers you with all the love 💗, happiness 😍, & blessings 🙌 that you so richly deserve 🎁✨. May this year bring you closer to your dreams 🌠, surround you with true happiness 😇, and fill your heart 💞 with laughter 😂 and love 💖.🎈 No matter where life takes us 🌍, always know that you’ll have a special place in my heart 💓 today and forever ♾️. 💝 Happy Birthday once again, My Favourite Girl!🌸🎊. #Ammai 💓💫</p>
+                <p className="text-purple-600 mb-1 leading-tight h-[auto] w-[700px] overflow-hidden text-center">Happy Birthday to my most beautiful caring and Sweet person!💖🎉 On this beautiful day 🌞, I just want to remind you how incredibly important you are to me and how much joy 😄💫 you bring into my life every single day. You’ve touched my heart ❤️ in ways words can never fully express 📝, and I’m beyond grateful 🙏 to have someone as amazing, caring, and wonderful as you in my life 💕. Every moment with you is a memory I cherish 💭📸, and today, I hope the universe 🌌 showers you with all the love 💗, happiness 😍, & blessings 🙌 that you so richly deserve 🎁✨. May this year bring you closer to your dreams 🌠, surround you with true happiness 😇, and fill your heart 💞 with laughter 😂 and love 💖.🎈 No matter where life takes us 🌍, always know that you’ll have a special place in my heart 💓 today and forever ♾️. 💝 Once again in Advance Happy Birthday, My Dear Madem Ji!🌸🎊. #Ammai 💓💫</p>
                 <div className="flex justify-center">
                   <motion.div
                     animate={{
