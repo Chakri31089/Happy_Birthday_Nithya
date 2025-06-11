@@ -19,15 +19,15 @@ export default function BirthdayCelebration() {
           damping: 20,
           delay: 0.3,
         }}
-        className="relative mb-2"
+        className="relative"
       >
-        <h1 className="text-4xl sm:text-5xl font-bold text-center text-pink-600 mb-5">Advance Happy Birthday Madem Ji 🩷!</h1>
+        <h1 className="text-4xl sm:text-5xl font-bold text-center text-pink-600">Advance Happy Birthday Madem Ji 🩷!</h1>
         <div className="flex justify-center gap-5">
 {/*           <Cake className="w-8 h-8 text-pink-500" />
           <Sparkles className="w-8 h-8 text-yellow-500" />
           <Heart className="w-8 h-8 text-pink-500" /> */}
         </div>
-        <h3 className="text-2xl sm:text-3xl font-bold text-center text-pink-600 mt-2">My Special Girl 🩷✨</h3>
+        <h3 className="text-2xl sm:text-3xl font-bold text-center text-pink-600">#Special One 🩷✨</h3>
       </motion.div>
 
       <motion.div
